@@ -1,0 +1,153 @@
+tabla;periodo;anio;dimension;indicador;valor;unidad;fuente
+llegada_centros;nov;2025;Mérida;turistas_nacionales;161195;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Mérida;turistas_extranjeros;45124;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Mérida;turistas_total;206319;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Valladolid;turistas_nacionales;15203;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Valladolid;turistas_extranjeros;8426;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Valladolid;turistas_total;23629;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Chichén Itzá;turistas_nacionales;2664;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Chichén Itzá;turistas_extranjeros;3074;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Chichén Itzá;turistas_total;5738;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Uxmal;turistas_nacionales;451;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Uxmal;turistas_extranjeros;1811;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Uxmal;turistas_total;2262;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Izamal;turistas_nacionales;3361;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Izamal;turistas_extranjeros;955;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;nov;2025;Izamal;turistas_total;4316;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Mérida;turistas_nacionales;1667132;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Mérida;turistas_extranjeros;398883;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Mérida;turistas_total;2066015;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Valladolid;turistas_nacionales;172582;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Valladolid;turistas_extranjeros;63849;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Valladolid;turistas_total;236431;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Chichén Itzá;turistas_nacionales;24602;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Chichén Itzá;turistas_extranjeros;30945;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Chichén Itzá;turistas_total;55547;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Uxmal;turistas_nacionales;15630;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Uxmal;turistas_extranjeros;14756;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Uxmal;turistas_total;30386;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Izamal;turistas_nacionales;37336;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Izamal;turistas_extranjeros;9633;personas;SEFOTUR informe mensual nov 2025
+llegada_centros;ene-nov;2025;Izamal;turistas_total;46969;personas;SEFOTUR informe mensual nov 2025
+llegada_estado_nov;nov;2024;estado;turistas_nacionales;184198;personas;SEFOTUR informe mensual nov 2025
+llegada_estado_nov;nov;2024;estado;turistas_extranjeros;45781;personas;SEFOTUR informe mensual nov 2025
+llegada_estado_nov;nov;2025;estado;turistas_nacionales;182874;personas;SEFOTUR informe mensual nov 2025
+llegada_estado_nov;nov;2025;estado;turistas_extranjeros;59390;personas;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2020;General 1-5 estrellas;ocupacion_hotelera;24,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2021;General 1-5 estrellas;ocupacion_hotelera;55,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2022;General 1-5 estrellas;ocupacion_hotelera;65,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2023;General 1-5 estrellas;ocupacion_hotelera;67,8;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2024;General 1-5 estrellas;ocupacion_hotelera;64,8;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2025;General 1-5 estrellas;ocupacion_hotelera;64,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2020;Turística 3-5 estrellas;ocupacion_hotelera;25,8;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2021;Turística 3-5 estrellas;ocupacion_hotelera;58,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2022;Turística 3-5 estrellas;ocupacion_hotelera;68,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2023;Turística 3-5 estrellas;ocupacion_hotelera;70,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2024;Turística 3-5 estrellas;ocupacion_hotelera;66,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2025;Turística 3-5 estrellas;ocupacion_hotelera;66,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2020;5 estrellas;ocupacion_hotelera;16;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2021;5 estrellas;ocupacion_hotelera;59,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2022;5 estrellas;ocupacion_hotelera;71,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2023;5 estrellas;ocupacion_hotelera;68,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2024;5 estrellas;ocupacion_hotelera;67,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2025;5 estrellas;ocupacion_hotelera;67,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2020;4 estrellas;ocupacion_hotelera;34,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2021;4 estrellas;ocupacion_hotelera;56,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2022;4 estrellas;ocupacion_hotelera;62,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2023;4 estrellas;ocupacion_hotelera;73,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2024;4 estrellas;ocupacion_hotelera;71,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2025;4 estrellas;ocupacion_hotelera;71,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2020;3 estrellas;ocupacion_hotelera;31,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2021;3 estrellas;ocupacion_hotelera;59,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2022;3 estrellas;ocupacion_hotelera;69,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2023;3 estrellas;ocupacion_hotelera;68,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2024;3 estrellas;ocupacion_hotelera;57,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2025;3 estrellas;ocupacion_hotelera;58,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2020;2 estrellas;ocupacion_hotelera;21,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2021;2 estrellas;ocupacion_hotelera;30,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2022;2 estrellas;ocupacion_hotelera;37,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2023;2 estrellas;ocupacion_hotelera;42,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2024;2 estrellas;ocupacion_hotelera;47,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2025;2 estrellas;ocupacion_hotelera;54,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2020;1 estrella;ocupacion_hotelera;14,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2021;1 estrella;ocupacion_hotelera;31,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2022;1 estrella;ocupacion_hotelera;39;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2023;1 estrella;ocupacion_hotelera;51,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2024;1 estrella;ocupacion_hotelera;56,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;nov;2025;1 estrella;ocupacion_hotelera;44,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2020;General 1-5 estrellas;ocupacion_hotelera;21,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2021;General 1-5 estrellas;ocupacion_hotelera;33,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2022;General 1-5 estrellas;ocupacion_hotelera;52,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2023;General 1-5 estrellas;ocupacion_hotelera;58,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2024;General 1-5 estrellas;ocupacion_hotelera;56,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2025;General 1-5 estrellas;ocupacion_hotelera;57,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2020;Turística 3-5 estrellas;ocupacion_hotelera;22,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2021;Turística 3-5 estrellas;ocupacion_hotelera;34,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2022;Turística 3-5 estrellas;ocupacion_hotelera;54,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2023;Turística 3-5 estrellas;ocupacion_hotelera;60,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2024;Turística 3-5 estrellas;ocupacion_hotelera;58,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2025;Turística 3-5 estrellas;ocupacion_hotelera;59;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2020;5 estrellas;ocupacion_hotelera;19,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2021;5 estrellas;ocupacion_hotelera;32,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2022;5 estrellas;ocupacion_hotelera;55,8;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2023;5 estrellas;ocupacion_hotelera;58,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2024;5 estrellas;ocupacion_hotelera;55,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2025;5 estrellas;ocupacion_hotelera;57,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2020;4 estrellas;ocupacion_hotelera;24,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2021;4 estrellas;ocupacion_hotelera;34,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2022;4 estrellas;ocupacion_hotelera;52,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2023;4 estrellas;ocupacion_hotelera;63,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2024;4 estrellas;ocupacion_hotelera;63,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2025;4 estrellas;ocupacion_hotelera;65,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2020;3 estrellas;ocupacion_hotelera;23,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2021;3 estrellas;ocupacion_hotelera;37,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2022;3 estrellas;ocupacion_hotelera;55,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2023;3 estrellas;ocupacion_hotelera;58,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2024;3 estrellas;ocupacion_hotelera;55,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2025;3 estrellas;ocupacion_hotelera;53,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2020;2 estrellas;ocupacion_hotelera;18,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2021;2 estrellas;ocupacion_hotelera;27,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2022;2 estrellas;ocupacion_hotelera;34,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2023;2 estrellas;ocupacion_hotelera;45,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2024;2 estrellas;ocupacion_hotelera;40,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2025;2 estrellas;ocupacion_hotelera;52,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2020;1 estrella;ocupacion_hotelera;17;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2021;1 estrella;ocupacion_hotelera;21,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2022;1 estrella;ocupacion_hotelera;34,2;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2023;1 estrella;ocupacion_hotelera;44,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2024;1 estrella;ocupacion_hotelera;45;%;SEFOTUR informe mensual nov 2025
+ocupacion_merida;ene-nov;2025;1 estrella;ocupacion_hotelera;42,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2023;Mérida;ocupacion_hotelera;58,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2024;Mérida;ocupacion_hotelera;56,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2025;Mérida;ocupacion_hotelera;57,9;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2023;Valladolid;ocupacion_hotelera;48,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2024;Valladolid;ocupacion_hotelera;43,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2025;Valladolid;ocupacion_hotelera;40,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2023;Chichén Itzá;ocupacion_hotelera;52,1;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2024;Chichén Itzá;ocupacion_hotelera;40,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2025;Chichén Itzá;ocupacion_hotelera;35,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2023;Uxmal;ocupacion_hotelera;26,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2024;Uxmal;ocupacion_hotelera;31,6;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2025;Uxmal;ocupacion_hotelera;20,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2023;Izamal;ocupacion_hotelera;48,3;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2024;Izamal;ocupacion_hotelera;37,7;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2025;Izamal;ocupacion_hotelera;35,4;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2023;Total estado;ocupacion_hotelera;56,5;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2024;Total estado;ocupacion_hotelera;53,8;%;SEFOTUR informe mensual nov 2025
+ocupacion_centros;ene-nov;2025;Total estado;ocupacion_hotelera;54,1;%;SEFOTUR informe mensual nov 2025
+aeropuerto_merida;nov;2024;Aeropuerto de Mérida;pasajeros;320577;pasajeros;SEFOTUR informe mensual nov 2025
+aeropuerto_merida;nov;2025;Aeropuerto de Mérida;pasajeros;354178;pasajeros;SEFOTUR informe mensual nov 2025
+aeropuerto_merida;ene-nov;2024;Aeropuerto de Mérida;pasajeros;3360750;pasajeros;SEFOTUR informe mensual nov 2025
+aeropuerto_merida;ene-nov;2025;Aeropuerto de Mérida;pasajeros;3560977;pasajeros;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;oct;2023;estado;ingreso_hotelero;278,27;millones de pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;oct;2023;estado;impuesto_hospedaje_5pct;13991546;pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;oct;2024;estado;ingreso_hotelero;284;millones de pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;oct;2024;estado;impuesto_hospedaje_5pct;14878953;pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;oct;2025;estado;ingreso_hotelero;312,29;millones de pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;oct;2025;estado;impuesto_hospedaje_5pct;15799923;pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;ene-oct;2023;estado;ingreso_hotelero;2678,43;millones de pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;ene-oct;2023;estado;impuesto_hospedaje_5pct;134275459;pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;ene-oct;2024;estado;ingreso_hotelero;2856,07;millones de pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;ene-oct;2024;estado;impuesto_hospedaje_5pct;143924200;pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;ene-oct;2025;estado;ingreso_hotelero;3182,3;millones de pesos corrientes;SEFOTUR informe mensual nov 2025
+ingreso_hotelero;ene-oct;2025;estado;impuesto_hospedaje_5pct;160685911;pesos corrientes;SEFOTUR informe mensual nov 2025
